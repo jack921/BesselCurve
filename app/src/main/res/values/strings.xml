@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">"BesselCurve "</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="besselTime">截止%s已走</string>
+    <string name="friendAverageStep">好友平均%s步</string>
+    <string name="averageStep">平均%s步/天</string>
+    <string name="champion">%s获得今天的冠军</string>
+    <string name="day">%s日</string>
+    <string name="ranking_left">第</string>
+    <string name="ranking_right">名</string>
+    <string name="nextSevenDay">最近7天</string>
+    <string name="check">查看</string>
+
+</resources>

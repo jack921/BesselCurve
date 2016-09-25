@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="besselColor">#24BBF1</color>
+    <color name="besselColorText">#D8D8D8</color>
+    <color name="wavylColor">#00B4F8</color>
+
+</resources>

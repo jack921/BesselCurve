@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+     <attr name="time" format="string"/>
+     <attr name="allStep" format="integer"/>
+     <attr name="friendAverageStep" format="integer"/>
+     <attr name="averageStep" format="integer"/>
+     <attr name="ranking" format="string"/>
+     <attr name="champion" format="string"/>
+     <attr name="besselColor" format="color"/>
+     <attr name="besselColorText" format="color"/>
+
+    <declare-styleable name="BesselCurveView">
+        <attr name="time"/>
+        <attr name="allStep"/>
+        <attr name="friendAverageStep"/>
+        <attr name="averageStep"/>
+        <attr name="ranking"/>
+        <attr name="champion"/>
+        <attr name="besselColor"/>
+        <attr name="besselColorText"/>
+    </declare-styleable>
+
+
+</resources>
